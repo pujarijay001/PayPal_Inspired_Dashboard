@@ -6,6 +6,9 @@ I built this project using **HTML and CSS** as part of my learning journey.
 I genuinely tried my best to build this project using whatever I’ve learned so far, focusing on **layout, structure, and clean CSS** rather than fancy effects or JavaScript.
 
 ---
+🔗 **Live Demo:**  
+     https://pujarijay001.github.io/PayPal_Inspired_Dashboard/
+---
 
 ## 📌 About the project
 
